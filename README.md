@@ -12,6 +12,7 @@ My Recommended Study Path
 2. Study each topic listed in the objectives, take your own notes
 3. Practice Exams on Udemy (Highly Recommend)
   * I recommend the practice exams from DeanCyber & Jason Dion - both reflect the actual exam format with VERY similar questions
+    * Dion's practice exams have some helpful PBQs!
    * [DeanCyber: Core 1 Practice Exams (220-1101)](https://www.udemy.com/course/comptia-a-core-1-220-1101-practice-exams/?couponCode=KEEPLEARNING)
    * [DeanCyber: Core 2 Practice Exams (220-1102)](https://www.udemy.com/course/comptia-a-core-2-220-1102-practice-exams/?couponCode=KEEPLEARNING)
    * [Jason Dion: Core 1 Practice Exams (220-1101)](https://www.udemy.com/course/comptia-a-220-1101-core-1-practice-exams-new-for-2022/?couponCode=KEEPLEARNING)

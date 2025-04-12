@@ -54,5 +54,6 @@ Exam Tips:
   * Some PBQs you might see:
     * Printer troubleshooting
     * Video, projector, display troubleshooting
-    * Motherboard layout 
+    * Motherboard layout
+    * Command-line troubleshooting
 

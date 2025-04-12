@@ -2,8 +2,7 @@
 
 Coming Soon - Notes for the COMPTIA A+ Exam (Cores 1 & 2)
 
-Efficient CompTIA A+ Study Recommendations:
-* These methods helped me save time & stay focused
+Efficient CompTIA A+ Study Recommendations (These methods helped me save time & stay focused)
   
 * While the Udemy video lectures can be helpful for some, I found them too time-consuming for my learning style. If you prefer a faster and more active learning method, the following alternatives might suit you better.
 

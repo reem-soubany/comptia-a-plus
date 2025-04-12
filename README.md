@@ -29,7 +29,7 @@ Other Resources to Explore:
   * I haven't used his material, but many students highly recommend his free videos & notes
 
 Exam Tips:
-* On my test, the 1st 4-5 questions were PBQs - if you find them too time-consuming, mark them & skip to the multiple choice questions
+* On my exams, the first 4-5 questions were PBQs - if you find them too time-consuming, mark them & skip to the multiple choice questions
 * Memorize Cold (with flashcards & repetition)
   * Port Numbers (from Core 1) -> You'll see questions like "Which port is used for secure web traffic?"
   * RAM types, pins, voltage, and differences -> Questions like "What’s the benefit of DDR4 over DDR3?" → higher transfer rate & lower voltage

@@ -8,26 +8,26 @@ Efficient CompTIA A+ Study Recommendations (These methods helped me save time & 
 
 My Recommended Study Path
 1. Download the CompTIA A+ Objectives
-* Get the official exam objectives for both cores & use them as personal checklists
+  * Get the official exam objectives for both cores & use them as personal checklists
 2. Study each topic listed in the objectives, take your own notes
 3. Practice Exams on Udemy (Highly Recommend)
   * I recommend the practice exams from DeanCyber & Jason Dion - both reflect the actual exam format with VERY similar questions
-    * Dion's practice exams have some helpful PBQs!
+      * Dion's practice exams have some helpful PBQs!
    * [DeanCyber: Core 1 Practice Exams (220-1101)](https://www.udemy.com/course/comptia-a-core-1-220-1101-practice-exams/?couponCode=KEEPLEARNING)
    * [DeanCyber: Core 2 Practice Exams (220-1102)](https://www.udemy.com/course/comptia-a-core-2-220-1102-practice-exams/?couponCode=KEEPLEARNING)
    * [Jason Dion: Core 1 Practice Exams (220-1101)](https://www.udemy.com/course/comptia-a-220-1101-core-1-practice-exams-new-for-2022/?couponCode=KEEPLEARNING)
    * [Jason Dion: Core 2 Practice Exams (220-1102)](https://www.udemy.com/course/comptia-a-220-1102-core-2-practice-exams-new-for-2022/?couponCode=KEEPLEARNING)
 
 4. PBQ Practice Resource (Very Useful)
-* This [Wordwall site](https://wordwall.net/en-us/community/comptia-1101-pbq) has PBQs (performance-based questions).
+  * This [Wordwall site](https://wordwall.net/en-us/community/comptia-1101-pbq) has PBQs (performance-based questions).
 
 5. Use ExamCompass Quizzes (Extremely Useful)
-* [ExamCompass A+ Practice Quizzes](https://www.examcompass.com/comptia/a-plus-certification/free-a-plus-practice-tests)
-   * Even if they're slightly outdated, they're great for sharpening recall once you understand the material
+  * [ExamCompass A+ Practice Quizzes](https://www.examcompass.com/comptia/a-plus-certification/free-a-plus-practice-tests)
+     * Even if they're slightly outdated, they're great for sharpening recall once you understand the material
 
 Other Resources to Explore:
-* [Professor Messer A+ Resources](https://www.professormesser.com/)
-  * I haven't used his material, but many students highly recommend his free videos & notes
+  * [Professor Messer A+ Resources](https://www.professormesser.com/)
+    * I haven't used his material, but many students highly recommend his free videos & notes
 
 Exam Tips:
 * On my exams, the first 4-5 questions were PBQs - if you find them too time-consuming, mark them & skip to the multiple choice questions
